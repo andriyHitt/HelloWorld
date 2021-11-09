@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld5
+namespace Enam_rec
 {
-    internal class ClassDemo
+    public enum Gender
     {
-
+        Man,
+        Woman,
     }
 }
